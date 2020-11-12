@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409613718533",
+    "firebase_url": "https://esatic-13a9b.firebaseio.com",
+    "project_id": "esatic-13a9b",
+    "storage_bucket": "esatic-13a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409613718533:android:288ecfb5f97e781582786c",
+        "android_client_info": {
+          "package_name": "com.example.kosso_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409613718533-hn0uq21q2026mjbdvegqv1fo8852h22m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kosso_chat",
+            "certificate_hash": "d36be15b6c48b871a3e3df50875bf2742b48a740"
+          }
+        },
+        {
+          "client_id": "409613718533-0mkerc62vocer1trfn0rohf5fdk171ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8-4SRZNJU6qF0xIj5Qzr623jtR7l0Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409613718533-0mkerc62vocer1trfn0rohf5fdk171ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
